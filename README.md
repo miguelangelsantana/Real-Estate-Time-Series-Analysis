@@ -83,7 +83,7 @@ Please review the narrative of our analysis in our [our jupyter notebook](./jupy
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
 
-##### Repository Structure:
+##### Repository Structure
 
 ```
 
